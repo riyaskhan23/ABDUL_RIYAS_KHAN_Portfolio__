@@ -22,13 +22,13 @@ export default function Projects() {
     {
       title: "Graphic Design",
       description: "Eye-catching, high CTR custom thumbnail designs created using Photoshop for various tech and gaming channels.",
-      image: {GraphicDesign}, 
+      image: GraphicDesign, 
       tags: ["Photoshop", "Illustrator", "UI/UX", "Branding"],
     },
     {
       title: "Video Editing",
       description: "Professional video edits, reels, and motion graphics intros crafted using Premiere Pro and After Effects.",
-      image: {VideoEditing}, 
+      image: VideoEditing, 
       tags: ["Premiere Pro", "After Effects", "Color Grading"],
     }
   ];
